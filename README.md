@@ -1,0 +1,2 @@
+# npmsafe
+use npm safety
