@@ -1,0 +1,25 @@
+{
+  "name": "npmsafe",
+  "version": "1.0.0",
+  "description": "use npm safety",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ueqt/npmsafe.git"
+  },
+  "keywords": [
+    "npm",
+    "safe",
+    "security"
+  ],
+  "author": "ueqt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ueqt/npmsafe/issues"
+  },
+  "homepage": "https://github.com/ueqt/npmsafe",
+  "preferGlobal": true,
+  "main": "./lib/index.js",
+  "bin": {
+    "npmsafe": "./lib/index.js"
+  }
+}
