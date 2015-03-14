@@ -52,6 +52,7 @@
   "underscore",
   "when",
   "winston",
+  "win-spawn",
   "ws.js",
   "xml2json",
   "yo"
