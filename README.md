@@ -18,7 +18,7 @@ use **npmsafe** instead of **npm**
 
 [![Build Status](https://api.travis-ci.org/ueqt/npmsafe.png)](http://travis-ci.org/ueqt/npmsafe)
 
-support **npmsafe check** to check package.json
+[![Dependency Status](https://david-dm.org/ueqt/npmsafe.svg)](https://david-dm.org/ueqt/npmsafe)
 
 ## Installation
 
