@@ -66,7 +66,7 @@ if something not verified, you can check it's downloads count in last month to j
 ```bash
 $ npmsafe check
 
-Analysing /Users/xujiase/git/node-biosl/package.json
+Analysing ~/git/xxx/package.json
  Not verified(package[downloads in npmjs in last month or stars in github(todo)]): 7
 mysql [ 171232 ]
 moment [ 1025532 ]
