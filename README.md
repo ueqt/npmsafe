@@ -3,8 +3,9 @@ use npm safety
 
 to solve [Nodejs应用仓库钓鱼](http://www.cnblogs.com/index-html/p/npm_package_phishing.html)
 
-npm repository may contain some harmful packages, and these packages may protect them use some similar words  
-as popular package, such as `goodjs` to `good-js`, but `good-js` may contain harmful codes. 
+>npm repository may contain some harmful packages,  
+>and these packages may protect them use some similar words as popular package,  
+>such as `goodjs` to `good-js`, but `good-js` may contain harmful codes. 
 
 use **npmsafe** instead of **npm**
 

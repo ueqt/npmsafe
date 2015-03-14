@@ -19,7 +19,6 @@
   "mkdirp",
   "npm",
   "npmsafe",
-  "osenv",
   "pm2",
   "pomelo",
   "q",

@@ -21,8 +21,5 @@
   "main": "./lib/index.js",
   "bin": {
     "npmsafe": "./lib/index.js"
-  },
-  "dependencies": {
-    "osenv": "^0.1.0"
   }
 }
