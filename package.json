@@ -21,5 +21,8 @@
   "main": "./lib/index.js",
   "bin": {
     "npmsafe": "./lib/index.js"
+  },
+  "dependencies": {
+    "async": "^0.9.0"
   }
 }
