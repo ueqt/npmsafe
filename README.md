@@ -22,21 +22,26 @@ support **npmsafe check** to check package.json
 
 ## Installation
 
-Through npm:
+### Through npm:
 ```bash
 npm i npmsafe -g
 ```
 
-Through GitHub:
+### Through GitHub:
 ```bash
 git clone git@github.com:ueqt/npmsafe.git
 cd npmsafe
 npm link
 ```
 
-Uninstall
+### Uninstall
 ```bash
 npm remove npmsafe -g
+```
+
+### Publish
+```bash
+npm publish
 ```
 
 # Usage
