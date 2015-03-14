@@ -20,6 +20,8 @@ use **npmsafe** instead of **npm**
 
 [![Dependency Status](https://david-dm.org/ueqt/npmsafe.svg)](https://david-dm.org/ueqt/npmsafe)
 
+[![Join the chat at https://gitter.im/ueqt/npmsafe](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ueqt/npmsafe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Installation
 
 ### Through npm:
