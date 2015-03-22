@@ -87,5 +87,8 @@ I will add much internal whitelist, but you still need more whitelist.
 So when you choose 3 in install time, it will save to your custom whiltelist.  
 Custom whitelist is at `~/.npmsafe/customWhiteList.txt`  , you can also edit it manually.
 
+# Version History
+- 1.0.12 Searching remote whitelist update when start npmsafe to ensure your whitelist is latest.  
+
 # Todo
 make a tool to automatically check npmjs repository and create whitelist.json more reliable
